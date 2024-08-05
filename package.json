@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tonejs/midi": "^2.0.28",
+    "@types/node": "^18.0.6",
+    "express": "^4.19.2",
+    "fft-js": "^0.0.12",
+    "fft.js": "^4.0.4",
+    "midi-parser-js": "^4.0.4",
+    "midi-writer-js": "^3.1.1",
+    "midiconvert": "^0.4.7",
+    "music-beat-detector": "^0.1.1",
+    "music-key": "^0.1.1",
+    "music-metadata": "^10.0.1",
+    "node-id3": "^0.2.6",
+    "pitchfinder": "^2.3.2",
+    "web-audio-api": "^0.2.2"
+  }
+}
